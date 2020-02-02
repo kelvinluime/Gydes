@@ -46,30 +46,6 @@ Vince Li
 ## Slide Menu Screen
 <img src="https://github.com/kwl005/Gydes/raw/master/media/slide.png" width="360" height="640" />
 
-## Search Places Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/search.png" width="360" height="640" />
-
-## Map Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/map.png" width="360" height="640" />
-
-## Places Info Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/info.png" width="360" height="640" />
-
-## Book Tour Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/tour.png" width="360" height="640" />
-
-## Book Tour Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/tour.png" width="360" height="640" />
-
-## Book Tour w/ Payment Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/payment.png" width="360" height="640" />
-
-## My Tour Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/history.png" width="360" height="640" />
-
-## My Profile Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/profile.png" width="360" height="640" />
-
 ## Payment Screen
 <img src="https://github.com/kwl005/Gydes/raw/master/media/make_payment.png" width="360" height="640" />
 
@@ -78,6 +54,3 @@ Vince Li
 
 ## Scan Card Screen
 <img src="https://github.com/kwl005/Gydes/raw/master/media/scan_card.jpg" width="360" height="640" />
-
-## Report Issue Screen
-<img src="https://github.com/kwl005/Gydes/raw/master/media/report.png" width="360" height="640" />
